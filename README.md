@@ -3,11 +3,6 @@
 ### Summary
 his project automates end-to-end testing of the Swag Labs demo site using WebdriverIO and JavaScript. It covers login scenarios for different users, cart operations, product sorting, checkout flow, and purchase verification. Page Object Model (POM) is used for reusable locators like login, logout, menu, reset, and cross buttons. The project is scalable, maintainable, and provides a complete automation framework for Swag Labs. <br>
 
-**Key Features** <br>
-01. Login tests for locked_out_user, standard_user, and performance_glitch_user.
-02. Reusable Page Object Model (POM) locators for Login, Logout, Menu, Reset, and Cross buttons.
-03. Checkout flow automation: adding items to cart, sorting products, resetting app state, filling user details, verifying cart, and completing purchase.
-
 **Testing Scope:** Automation Testing <br>
 **Test Environment:** (https://www.saucedemo.com/) <br>
 **Test Scenarios:**  
@@ -36,7 +31,7 @@ his project automates end-to-end testing of the Swag Labs demo site using Webdri
 git clone https://github.com/zihadcse23/automation-swag-labs-demo.git
 ```
 
-### Additional:
+### Additional Information:
 **Automation Testing**
 
 You are asking for automation tests on the (https://www.saucedemo.com/) site.
